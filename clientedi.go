@@ -11,6 +11,7 @@ import (
 	"os"
 )
 
+// Vars for logging
 var (
 	// Trace logging key
 	Trace *log.Logger
